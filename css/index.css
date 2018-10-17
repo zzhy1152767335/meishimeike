@@ -1,0 +1,265 @@
+.tip:hover:after {
+   content: 'tip';
+   position: absolute;
+   padding: 5px;
+   border: 1px solid gray;
+   background: whitesmoke;
+   font-size: 20px;
+}
+.center {
+	width: 1000px;
+	margin: 0 auto;
+}
+/*顶部s*/
+.top {
+	height: 47px;
+	background-color: #e9e8e8;
+}
+.top .top_c {
+	height: 47px;
+	line-height: 47px;
+}
+/*尾部e*/
+/*logo s*/
+.logo {
+	height: 99px;
+	background-color: #c70202;
+}
+.logo .l_c {
+	height: 99px;
+}
+.logo .l_left h1 a {
+	display: inline-block;
+	width: 221px;
+	height: 97px;
+	background: url(../images/logo.png);
+	text-indent: -1000em;
+}
+.logo .l_center {
+    width: 300px;
+    height: 28px;
+    background-color: red;
+    padding: 1px;
+    margin: 34px 0 0 70px;
+    border-radius: 5px;/*设置圆角*/
+}
+.logo .l_center .txt {
+	width: 236px;
+	height: 26px;
+	outline: none;
+}
+.logo .l_center .btn {
+	width: 60px;
+	height: 30px;
+	background-color: #C70202;
+	color:#fff;
+	border-radius: 0 5px 5px 0;
+}
+.logo .l_right {
+    margin-top: 35px;
+}
+.l_right li {
+	float: left;
+	height: 30px;
+	line-height: 30px;
+	margin-left: 25px;
+} 
+.l_right a {
+	color: #fff;
+}
+.l_right input {
+	width: 56px;
+	height: 30px;
+	font-size: 14px; 
+}
+.logo .l_right li b {
+	display: inline-block;
+    width: 24px;
+    height: 20px;
+    background: url(../images/sprite.png);
+    vertical-align: middle;
+}
+.logo .l_right .sina {
+	background-position: 0 -27px;
+}
+/*logo e*/
+/*登录页面中间部分s*/
+.all {
+	width: 1000px;
+	height: 800px;
+	margin: 0 auto;
+	padding:  10px 10px 10px 10px;
+}
+.all .all_left {
+	width: 495px;
+	height: 800px;
+	background:url(../images/cookie.png) no-repeat;
+}
+.all .all_right {
+	width: 450px;
+	height: 620px;
+	margin-left: 10px;
+	margin-top: 85px;
+	background-color: white;
+	padding: 0 15px;
+}
+.all .all_right h2 {
+	font: normal 400 30px "微软雅黑";
+	margin: 25px 0 0 30px;
+}
+.all .all_right input {
+    width: 400px;
+	height: 40px;
+	border: 1px solid #c4c4c4;
+	font-size: 20px; 
+	padding-left: 40px;
+
+
+}
+.all .all_right .txt {
+	margin: 40px 0 40px 0;
+	background: url(../images/sprite.png) no-repeat;
+	background-position: 5px -488px;
+}
+.all .all_right .btn {
+	background: url(../images/sprite.png) no-repeat;
+	background-position: 3px -545px;
+}
+.all .all_right .re {
+	font: normal normal 24px "微软雅黑";
+	padding: 15px 0 0 10px;
+	width: 415px;
+    height: 100px;
+	
+}
+.all .all_right .re input {
+	width: 24px;
+	height: 24px;
+	
+}
+
+.all .all_right .re a {
+	color:#bababa;
+}
+.all .all_right .btn1 {
+	height: 50px;
+	font-size: 30px;
+	background-color: #e60012;
+}
+.all .all_right .other {
+	font: normal normal 24px "微软雅黑";
+	margin: 40px 0 0 20px;
+}
+.other  li {
+	float: left;
+	margin-top: 70px;
+}
+.other  li a {
+	font-size: 14px;
+	color: #898989;
+	padding-left: 50px;
+}
+.other  li i {
+	display: inline-block;
+	width: 22px;
+	height: 23px;
+	background: url(../images/sprite.png) no-repeat 0 2px;
+}
+.other  li .weibo {
+	display: inline-block;
+	width: 22px;
+	height: 23px;
+	background: url(../images/sprite.png) no-repeat 0 -23px;
+}
+.other  li .youxiang {
+
+}
+/*登录页面中间部分 e*/
+/* foot s*/
+.foot {
+	height: 273px;
+	background-color: #2f2f2f;
+	padding: 10px;
+}
+.foot .f_border {
+	height: 273px;
+	border: 1px solid #ffd283;
+	position: relative;
+}
+.foot .f_border b {
+	position: absolute;
+	width: 17px;
+	height: 17px;
+	background: url(../images/circle.png);
+}
+.foot .f_border .b1 {
+	top:-1px;
+	left: -1px;
+	background-position: right bottom;
+
+}
+.foot .f_border .b2 {
+	top:-1px;
+	right: -1px;
+	background-position: left bottom;
+
+}
+.foot .f_border .b3 {
+	bottom:-1px;
+	right: -1px;
+	background-position: top left;
+
+}
+.foot .f_border .b4 {
+	bottom:-1px;
+	left: -1px;
+	background-position: top right;
+
+}
+.foot .foot_l {
+    color: #CCC;
+	margin-top: 55px;
+} 
+.foot .foot_l p {
+	height: 33px;
+	line-height: 33px;
+}
+.foot .foot_l em {
+	color: #FF3232;
+	font-size: 14px;
+}
+.foot .foot_r {
+	margin-top: 34px; 
+}
+.foot .foot_r li {
+	float: left;
+    width: 105px;
+    height: 100px;
+    margin-left: 20px;
+    background-color: red;
+}
+.foot .foot_r li a {
+	display: inline-block;
+	color:#666;
+	text-align: center;
+}
+.foot .foot_r li span {
+   
+}
+.foot .foot_r li s {
+	margin-bottom: 10px;
+    display: inline-block;
+	width: 105px;
+	height: 105px;
+	background: url(../images/sprite.png) no-repeat -327px 0;
+}
+.foot .foot_r .kongjian {
+	background-position: -327px -120px;
+}
+.foot .foot_r .weixin {
+	background-position: -327px -241px;
+}
+.foot .foot_r .shouji {
+	background-position:  -327px -362px;
+}
+/* foot e*/

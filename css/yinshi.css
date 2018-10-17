@@ -1,0 +1,174 @@
+.center {
+	width: 1000px;
+	margin: 0 auto;
+}
+.xushi {
+	height: 144px;
+	margin: 0 auto;
+}
+.xushi h2 {
+	text-align: center;
+	padding-top: 20px;
+	color:"微软雅黑";
+	font-size: 25px;
+}
+.tiaoli {
+	width: 1000px;
+	height: 300px;
+	margin: 0 auto;
+	padding-top: -5px;
+}
+.tiaoli .tiaoli_t {
+	background: #fcf1dd;
+	width: 1000px;
+	height: 50px;
+}
+/*.tiaoli .tiaoli_t .gn {
+	background: #fff;
+}*/
+.tiaoli ul li {
+	float: left;
+    padding: 10px 0 0 20px;
+}
+.tiaoli .gn .gn1 {
+	padding-bottom: 10px;
+}
+.tiaoli ul li a {
+    display: inline-block;
+	color: #010101;
+	font-size: 20px;
+	font-weight: bold;
+}
+.tiaoli .gn {
+	height: 141px;
+	width: 1000px;
+	background: #fff;
+}
+.tiaoli .gn p {
+	line-height: 20px;
+	padding: 10px 0 0 10px;
+	color: #585858;
+	font-size: 20px;
+	font-weight: bold;
+}
+.tiaoli .gn a {
+    padding: 10px 10px 10px 8px;
+    color: #000;
+    font-size: 16px;
+}
+.tiaoli .gn .qingre {
+	color: #c70202;
+}
+.qingxin {
+	height: 550px;
+	width: 1000px;
+	margin: 0 auto;
+	background: #fff;
+	margin-top: -70px;
+}
+.qingxin .p1 {
+	padding: 10px 0 0 10px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #585858;
+}
+.qingxin .p2 {
+	padding: 10px 10px 0 10px;
+	font-size: 15px;
+	/*border-bottom: 1px solid #bfbfbf;*/
+}
+.qingxin .p3 {
+	padding: 10px 0 0 10px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #176009;
+}
+.qingxin .p4 {
+	padding: 20px 0 0 10px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #176009;
+}
+.qingxin .p5 {
+	padding: 20px 0 0 20px;
+	font-size: 15px;
+}
+.renqi {
+	width: 1000px;
+	height: 580px;
+	margin: 0 auto;
+}
+.renqi  .jieshi {
+	width: 1000px;
+    height: 40px;
+}
+.renqi  .jieshi ul li {
+	float: left;
+}
+.renqi .jieshi li {
+	padding:10px 20px 10px 0 ;
+    font-size: 16px;
+
+}
+.renqi .jieshi  ul li a {
+	display: inline-block;
+	color: #333333;
+}
+.renqi .jieshi  ul li .quhuo {
+	display: inline-block;
+	background: #ff3232;
+}
+.renqi .tup {
+	width: 1000px;
+	height: 530px;
+	margin: 0 auto;
+}
+.renqi .tup .t1 {
+	float: left;
+	width: 250px;
+	height: 265px;
+	background: url(../images/feili.png) no-repeat;
+}
+.renqi .tup .t2 {
+	float: left;
+	width: 250px;
+	height: 265px;
+	background: url(../images/roumo.png) no-repeat;
+}
+.renqi .tup .t3 {
+	float: left;
+	width: 250px;
+	height: 265px;
+	background: url(../images/bohe.png) no-repeat;
+}
+.renqi .tup .t4 {
+	float: left;
+	width: 250px;
+	height: 265px;
+	background: url(../images/ayou.png) no-repeat;
+}
+.renqi .tup .t5 {
+	float: left;
+	width: 250px;
+	height: 265px;
+	background: url(../images/jiang.png) no-repeat;
+}
+.renqi .tup .t6 {
+	float: left;
+	width: 250px;
+	height: 265px;
+	background: url(../images/baosha.png) no-repeat;
+}
+.renqi .tup .t7
+ {
+	float: left;
+	width: 250px;
+	height: 265px;
+	background: url(../images/suanx.png) no-repeat;
+}
+.renqi .tup .t8 {
+	float: left;
+	width: 250px;
+	height: 265px;
+	background: url(../images/kao.png) no-repeat;
+}
